@@ -590,7 +590,7 @@ install_subdir(
 )
 
 install_headers(
-  'include/i3/ipc.h',
+  'include/ipc.h',
   subdir: 'i3',
 )
 
